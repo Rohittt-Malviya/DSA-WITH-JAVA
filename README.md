@@ -21,7 +21,7 @@ Depending on how the repository is organized, this repo may include:
   - Trees / Binary Search Trees
   - Heaps / Priority Queue
   - Graphs
-  - Tries
+  - Trees
 
 - Core **Algorithms**
   - Sorting & Searching
