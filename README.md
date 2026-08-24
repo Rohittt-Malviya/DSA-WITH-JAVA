@@ -161,3 +161,19 @@ flowchart TD
 This portfolio demonstrates selecting appropriate data structures, improving over brute-force baselines, reasoning about time/space complexity, and communicating implementation decisions in a format suitable for technical interviews.
 
 > Difficulty, official constraints, and platform metadata are only marked when reliably inferable from repository contents.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/master/0231-power-of-two) |
+<!---LeetCode Topics End-->
