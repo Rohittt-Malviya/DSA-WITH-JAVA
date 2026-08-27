@@ -181,4 +181,8 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | ------- | ------- |
 | [0627-swap-sex-of-employees](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1068-product-sales-analysis-i/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0520-detect-capital](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0520-detect-capital/) | Easy |
 <!---LeetCode Topics End-->
