@@ -168,6 +168,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0367-valid-perfect-square/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,4 +186,8 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0520-detect-capital](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0520-detect-capital/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0367-valid-perfect-square](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0367-valid-perfect-square/) | Easy |
 <!---LeetCode Topics End-->
