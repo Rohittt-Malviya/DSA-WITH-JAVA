@@ -170,6 +170,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0231-power-of-two](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -207,6 +208,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0016-3sum-closest](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0016-3sum-closest/) | Medium |
 | [0705-design-hashset](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0705-design-hashset/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
