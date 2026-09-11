@@ -3,7 +3,7 @@
 | LeetCode (inferred from filename pattern). | Not determined from repository contents. | Binary Search | Java | O(log(m*n)) | O(1) |
 
 # Search a 2D Matrix
-> Solve the stated task by applying a suitable data-structure or algorithmic strategy reflected in the provided Java implementation.
+> Solve the stated task by applying a suitable data-structure or algorithmic strategy reflected in the provided implementation.
 
 ## 🧩 Problem Statement
 The repository contains a Java solution for **Search a 2D Matrix**. From the implementation, the objective is to compute the required output for the given input structure while preserving correctness for standard edge scenarios.
