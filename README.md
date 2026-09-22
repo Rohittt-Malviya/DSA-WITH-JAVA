@@ -253,8 +253,10 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0051-n-queens](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0052-n-queens-ii/) | Hard |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
