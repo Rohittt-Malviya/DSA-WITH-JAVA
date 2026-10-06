@@ -240,6 +240,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0705-design-hashset](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0705-design-hashset/) | Easy |
 ## Design
 | Problem Name | Difficulty |
