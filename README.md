@@ -207,6 +207,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -232,6 +233,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0037-sudoku-solver/) | Hard |
+| [0141-linked-list-cycle](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0705-design-hashset](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0705-design-hashset/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -247,6 +249,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0705-design-hashset](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0705-design-hashset/) | Easy |
@@ -295,4 +298,8 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0037-sudoku-solver/) | Hard |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
