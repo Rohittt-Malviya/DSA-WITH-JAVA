@@ -7,7 +7,9 @@ class Solution {
                 nums[i]=1;
             }
         }
-        Arrays.sort(nums);
+       Arrays.sort(nums);
+      
+       
         return nums;
     }
 }
