@@ -221,6 +221,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0876-middle-of-the-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2460-apply-operations-to-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -233,6 +234,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0189-rotate-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0189-rotate-array/) | Medium |
 | [0705-design-hashset](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0705-design-hashset/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [2460-apply-operations-to-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Enumeration
@@ -319,4 +321,8 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2460-apply-operations-to-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2460-apply-operations-to-an-array/) | Easy |
 <!---LeetCode Topics End-->
