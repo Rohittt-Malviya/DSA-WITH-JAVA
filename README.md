@@ -238,6 +238,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0746-min-cost-climbing-stairs](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -257,10 +258,12 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0016-3sum-closest/) | Medium |
+| [3467-transform-array-by-parity](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
