@@ -210,6 +210,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0027-remove-element](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0141-linked-list-cycle/) | Easy |
@@ -225,6 +226,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0016-3sum-closest](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0016-3sum-closest/) | Medium |
+| [0027-remove-element](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0027-remove-element/) | Easy |
 | [0037-sudoku-solver](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0066-plus-one/) | Easy |
