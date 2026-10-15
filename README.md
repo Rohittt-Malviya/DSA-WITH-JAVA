@@ -215,6 +215,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0027-remove-element](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0027-remove-element/) | Easy |
 | [0061-rotate-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -271,6 +272,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0021-merge-two-sorted-lists](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0086-partition-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
