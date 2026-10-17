@@ -184,6 +184,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/master/0231-power-of-two) |
@@ -270,6 +271,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0024-swap-nodes-in-pairs](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0061-rotate-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0086-partition-list/) | Medium |
