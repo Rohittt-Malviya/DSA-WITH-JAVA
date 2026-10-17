@@ -227,6 +227,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0876-middle-of-the-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -289,6 +290,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0876-middle-of-the-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,4 +346,5 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
