@@ -11,17 +11,32 @@
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
        ArrayList<ListNode> arr=new ArrayList<>();
+        ArrayList<ListNode> arr2=new ArrayList<>();
        for(ListNode a:lists){
         arr.add(a);
        }
        if(arr.size()==0)return null;
-       while(arr.size()!=1 ){
+       while(arr.size()+arr2.size()>1 ){
+        while(arr.size()>1){
         ListNode b=arr.get(arr.size()-1);
         arr.remove(arr.size()-1);
         ListNode c=arr.get(arr.size()-1);
         arr.remove(arr.size()-1);
         ListNode d=merge(b,c);
-        arr.add(d);
+        arr2.add(d);}
+        if (!arr.isEmpty()) {
+        arr2.add(arr.remove(0));
+    }
+        while(arr2.size()>1){
+        ListNode b=arr2.get(arr2.size()-1);
+        arr2.remove(arr2.size()-1);
+        ListNode c=arr2.get(arr2.size()-1);
+        arr2.remove(arr2.size()-1);
+        ListNode d=merge(b,c);
+        arr.add(d);}
+        if (!arr2.isEmpty()) {
+        arr.add(arr2.remove(0));
+    }
 
        }
        return arr.get(0);
