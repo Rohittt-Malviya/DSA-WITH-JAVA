@@ -240,6 +240,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0037-sudoku-solver](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0066-plus-one/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0189-rotate-array/) | Medium |
 | [0705-design-hashset](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0705-design-hashset/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -256,6 +257,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0037-sudoku-solver/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -334,6 +336,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0037-sudoku-solver/) | Hard |
+| [0073-set-matrix-zeroes](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0073-set-matrix-zeroes/) | Medium |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
