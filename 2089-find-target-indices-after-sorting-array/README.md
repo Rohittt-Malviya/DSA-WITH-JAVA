@@ -1,86 +1,41 @@
-| Platform | Difficulty | Topic | Language | Time Complexity | Space Complexity |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| LeetCode (inferred from filename pattern). | Not determined from repository contents. | Sorting / Array | Java | O(n log n) | O(1) |
+<h2><a href="https://leetcode.com/problems/find-target-indices-after-sorting-array">2089. Find Target Indices After Sorting Array</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and a target element <code>target</code>.</p>
 
-# Find Target Indices After Sorting Array
-> Solve the stated task by applying a suitable data-structure or algorithmic strategy reflected in the provided Java implementation.
+<p>A <strong>target index</strong> is an index <code>i</code> such that <code>nums[i] == target</code>.</p>
 
-## 🧩 Problem Statement
-The repository contains a Java solution for **Find Target Indices After Sorting Array**. From the implementation, the objective is to compute the required output for the given input structure while preserving correctness for standard edge scenarios.
+<p>Return <em>a list of the target indices of</em> <code>nums</code> after<em> sorting </em><code>nums</code><em> in <strong>non-decreasing</strong> order</em>. If there are no target indices, return <em>an <strong>empty</strong> list</em>. The returned list must be sorted in <strong>increasing</strong> order.</p>
 
-Problem-specific constraints and official platform wording are **not determined from repository contents**.
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-## 💡 Core Concept & Intuition
-The implementation is primarily based on **Sorting / Array**.
+<pre>
+<strong>Input:</strong> nums = [1,2,5,2,3], target = 2
+<strong>Output:</strong> [1,2]
+<strong>Explanation:</strong> After sorting, nums is [1,<u><strong>2</strong></u>,<u><strong>2</strong></u>,3,5].
+The indices where nums[i] == 2 are 1 and 2.
+</pre>
 
-### Why This Concept?
-This approach keeps the solution aligned with expected interview-quality trade-offs between correctness and runtime efficiency.
+<p><strong class="example">Example 2:</strong></p>
 
-### Intuition
-1. Start from the most direct interpretation of the input/output behavior.
-2. Observe where a naive scan or repeated work would become inefficient.
-3. Use **Sorting / Array** to avoid redundant operations.
-4. Return the final computed answer after a single structured pass or bounded iterative refinement.
+<pre>
+<strong>Input:</strong> nums = [1,2,5,2,3], target = 3
+<strong>Output:</strong> [3]
+<strong>Explanation:</strong> After sorting, nums is [1,2,2,<u><strong>3</strong></u>,5].
+The index where nums[i] == 3 is 3.
+</pre>
 
-## 🚀 Approach: Brute Force vs. Optimized
-### 🐢 Brute Force
-A straightforward baseline would check combinations or states more exhaustively, which increases repeated computation.
+<p><strong class="example">Example 3:</strong></p>
 
-- **Time Complexity:** Not determined from repository contents.
-- **Space Complexity:** Not determined from repository contents.
-- **Scalability issue:** Repeated checks do not scale well for larger input sizes.
+<pre>
+<strong>Input:</strong> nums = [1,2,5,2,3], target = 5
+<strong>Output:</strong> [4]
+<strong>Explanation:</strong> After sorting, nums is [1,2,2,3,<u><strong>5</strong></u>].
+The index where nums[i] == 5 is 4.
+</pre>
 
-### 🚀 Optimized Solution
-The included Java solution applies **Sorting / Array** and computes the result with:
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-- **Time Complexity:** O(n log n)
-- **Space Complexity:** O(1)
-
-## 👣 Step-by-Step Walkthrough
-1. Read the input and initialize required variables/data structures.
-2. Iterate according to the implemented strategy.
-3. Update state (indices, counters, accumulators, or helper structures) based on each element or condition.
-4. Continue until the termination condition in the code is met.
-5. Return the computed result.
-
-## 🎤 Interview Perspective
-### What Is the Interviewer Testing?
-- Data-structure selection and algorithmic modeling.
-- Ability to optimize beyond naive approaches.
-- Clarity in complexity analysis and reasoning.
-
-### Edge Cases
-- Empty or minimal input size.
-- Duplicate or repeated values when relevant.
-- Boundary indices / off-by-one conditions.
-- Input-specific corner cases implied by control flow.
-
-### Common Mistakes
-- Mishandling initialization and boundary conditions.
-- Incorrect state updates leading to missed cases.
-- Returning too early or too late in iterative/recursive logic.
-
-### Possible Follow-Up Questions
-- Can space usage be reduced further?
-- Can this be solved with a different data structure?
-- What changes for streaming or very large inputs?
-
-## 📊 Complexity Analysis
-| Approach | Time Complexity | Space Complexity |
-| :--- | :--- | :--- |
-| Brute Force | Not determined from repository contents. | Not determined from repository contents. |
-| Optimized | O(n log n) | O(1) |
-
-### 💻 Solution
-[View Java Solution](./solution.java)
-
-## 📌 Key Takeaways
-- This solution demonstrates practical use of **Sorting / Array**.
-- Correct boundary handling is as important as algorithm choice.
-- Complexity awareness is central to interview-quality solutions.
-- Readable control flow improves maintainability and reviewability.
-
-## 🔗 Related Problems
-- [Selection Sort](../selection-sort/)
-- [BubbleSort in java](../bubblesort-in-java/)
-- [Sort an Array](../912-sort-an-array/)
+<ul>
+	<li><code>1 &lt;= nums.length &lt;= 100</code></li>
+	<li><code>1 &lt;= nums[i], target &lt;= 100</code></li>
+</ul>
