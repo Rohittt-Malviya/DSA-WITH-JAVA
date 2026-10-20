@@ -167,6 +167,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0002-add-two-numbers/) | Medium |
 | [0066-plus-one](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/master/0231-power-of-two) |
@@ -183,6 +184,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0143-reorder-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0143-reorder-list/) | Medium |
@@ -279,6 +281,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0023-merge-k-sorted-lists/) | Hard |
