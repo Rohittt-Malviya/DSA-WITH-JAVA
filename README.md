@@ -312,6 +312,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -366,6 +367,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0867-transpose-matrix/) | Easy |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
