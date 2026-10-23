@@ -246,6 +246,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0051-n-queens](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0118-pascals-triangle](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0118-pascals-triangle/) | Easy |
 | [0189-rotate-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0189-rotate-array/) | Medium |
 | [0705-design-hashset](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0705-design-hashset/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -341,6 +342,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0118-pascals-triangle/) | Easy |
 | [0509-fibonacci-number](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Memoization
