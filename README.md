@@ -245,6 +245,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0048-rotate-image](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0066-plus-one](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0066-plus-one/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0118-pascals-triangle](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0118-pascals-triangle/) | Easy |
@@ -358,6 +359,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0037-sudoku-solver](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0867-transpose-matrix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0867-transpose-matrix/) | Easy |
 ## Dancing Links
@@ -373,6 +375,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0867-transpose-matrix/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2460-apply-operations-to-an-array/) | Easy |
