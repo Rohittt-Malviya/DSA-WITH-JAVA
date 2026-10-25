@@ -209,6 +209,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0520-detect-capital](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0520-detect-capital/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2942-find-words-containing-character](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2942-find-words-containing-character/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -259,6 +260,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2942-find-words-containing-character](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2942-find-words-containing-character/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Enumeration
