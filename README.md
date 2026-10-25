@@ -207,6 +207,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0014-longest-common-prefix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0520-detect-capital](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0520-detect-capital/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -254,6 +255,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0705-design-hashset](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0705-design-hashset/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0867-transpose-matrix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0867-transpose-matrix/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -377,6 +379,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0054-spiral-matrix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0867-transpose-matrix/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## Stack
