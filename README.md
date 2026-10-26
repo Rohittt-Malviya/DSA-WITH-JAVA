@@ -207,6 +207,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0014-longest-common-prefix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0520-detect-capital](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0520-detect-capital/) | Easy |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [1816-truncate-sentence](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1816-truncate-sentence/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -232,6 +233,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0557-reverse-words-in-a-string-iii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
