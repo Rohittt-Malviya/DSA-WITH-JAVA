@@ -207,6 +207,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0014-longest-common-prefix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0520-detect-capital](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0520-detect-capital/) | Easy |
+| [1816-truncate-sentence](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1816-truncate-sentence/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2942-find-words-containing-character/) | Easy |
@@ -256,6 +257,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0705-design-hashset](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0705-design-hashset/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0867-transpose-matrix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0867-transpose-matrix/) | Easy |
+| [1816-truncate-sentence](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1816-truncate-sentence/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2460-apply-operations-to-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2460-apply-operations-to-an-array/) | Easy |
