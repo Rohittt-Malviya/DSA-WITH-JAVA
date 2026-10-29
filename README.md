@@ -213,6 +213,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2942-find-words-containing-character/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -391,6 +392,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2460-apply-operations-to-an-array/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
