@@ -243,6 +243,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2460-apply-operations-to-an-array/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -267,6 +268,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -400,6 +402,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0059-spiral-matrix-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0867-transpose-matrix/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2460-apply-operations-to-an-array/) | Easy |
