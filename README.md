@@ -213,6 +213,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2942-find-words-containing-character/) | Easy |
+| [3110-score-of-a-string](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3110-score-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
