@@ -266,6 +266,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0189-rotate-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0189-rotate-array/) | Medium |
 | [0705-design-hashset](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0705-design-hashset/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0817-linked-list-components](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0817-linked-list-components/) | Medium |
 | [0867-transpose-matrix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0867-transpose-matrix/) | Easy |
 | [1816-truncate-sentence](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1816-truncate-sentence/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -294,6 +295,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0142-linked-list-cycle-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0705-design-hashset](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0705-design-hashset/) | Easy |
+| [0817-linked-list-components](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0817-linked-list-components/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Counting
@@ -335,6 +337,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0328-odd-even-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0705-design-hashset](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0705-design-hashset/) | Easy |
+| [0817-linked-list-components](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0817-linked-list-components/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
