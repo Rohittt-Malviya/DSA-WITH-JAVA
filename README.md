@@ -173,6 +173,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0189-rotate-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0367-valid-perfect-square/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3870-count-commas-in-range/) | Easy |
@@ -337,6 +338,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0237-delete-node-in-a-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0445-add-two-numbers-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0705-design-hashset](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0705-design-hashset/) | Easy |
 | [0817-linked-list-components](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0817-linked-list-components/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -420,6 +422,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
