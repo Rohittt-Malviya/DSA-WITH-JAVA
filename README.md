@@ -176,6 +176,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0445-add-two-numbers-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -352,6 +353,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2326-spiral-matrix-iv/) | Medium |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -451,4 +453,8 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
