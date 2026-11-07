@@ -176,6 +176,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0445-add-two-numbers-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [3783-mirror-distance-of-an-integer](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3945-digit-frequency-score/) | Easy |
