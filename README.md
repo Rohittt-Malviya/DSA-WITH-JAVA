@@ -176,6 +176,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0445-add-two-numbers-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [1688-count-of-matches-in-tournament](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -418,6 +419,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0054-spiral-matrix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0867-transpose-matrix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0867-transpose-matrix/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
