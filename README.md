@@ -184,6 +184,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [3870-count-commas-in-range](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3945-digit-frequency-score/) | Easy |
+| [3959-check-good-integer](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3959-check-good-integer/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -426,6 +427,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [2326-spiral-matrix-iv](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3959-check-good-integer](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3959-check-good-integer/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
