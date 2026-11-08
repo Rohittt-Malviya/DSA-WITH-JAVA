@@ -184,6 +184,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [3783-mirror-distance-of-an-integer](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3895-count-digit-appearances](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3945-digit-frequency-score/) | Easy |
 | [3959-check-good-integer](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3959-check-good-integer/) | Easy |
 ## Bit Manipulation
@@ -290,6 +291,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3895-count-digit-appearances](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3895-count-digit-appearances/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
