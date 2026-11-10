@@ -182,6 +182,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [2469-convert-the-temperature](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2469-convert-the-temperature/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3870-count-commas-in-range/) | Easy |
@@ -294,6 +295,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2942-find-words-containing-character/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3895-count-digit-appearances/) | Medium |
@@ -315,6 +317,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0817-linked-list-components](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0817-linked-list-components/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3945-digit-frequency-score/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
