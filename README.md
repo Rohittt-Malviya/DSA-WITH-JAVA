@@ -182,6 +182,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [2469-convert-the-temperature](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2469-convert-the-temperature/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+| [3099-harshad-number](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3099-harshad-number/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
