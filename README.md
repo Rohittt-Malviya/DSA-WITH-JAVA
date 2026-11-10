@@ -172,6 +172,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0066-plus-one](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0367-valid-perfect-square/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
@@ -209,6 +210,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0206-reverse-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 ## Database
