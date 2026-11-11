@@ -172,6 +172,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0066-plus-one](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0342-power-of-four/) | Easy |
 | [0367-valid-perfect-square](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0367-valid-perfect-square/) | Easy |
@@ -433,6 +434,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0258-add-digits](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0258-add-digits/) | Easy |
 | [0867-transpose-matrix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0867-transpose-matrix/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -476,6 +478,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
