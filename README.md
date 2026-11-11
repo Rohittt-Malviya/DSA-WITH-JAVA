@@ -227,6 +227,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0520-detect-capital](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0520-detect-capital/) | Easy |
 | [0541-reverse-string-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -249,6 +250,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0016-3sum-closest](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0016-3sum-closest/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0027-remove-element/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0086-partition-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0086-partition-list/) | Medium |
@@ -490,4 +492,20 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
