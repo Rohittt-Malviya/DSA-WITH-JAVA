@@ -180,6 +180,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0509-fibonacci-number](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1688-count-of-matches-in-tournament](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2469-convert-the-temperature/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
