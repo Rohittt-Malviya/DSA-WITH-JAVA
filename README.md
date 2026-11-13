@@ -367,6 +367,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0705-design-hashset](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0705-design-hashset/) | Easy |
+| [0725-split-linked-list-in-parts](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [0817-linked-list-components](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0817-linked-list-components/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
