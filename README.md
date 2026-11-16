@@ -219,6 +219,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0178-rank-scores](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0178-rank-scores/) | Medium |
 | [0183-customers-who-never-order](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0183-customers-who-never-order/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1068-product-sales-analysis-i/) | Easy |
