@@ -183,6 +183,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [1688-count-of-matches-in-tournament](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2469-convert-the-temperature/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
@@ -490,6 +491,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Euclidean Algorithm
