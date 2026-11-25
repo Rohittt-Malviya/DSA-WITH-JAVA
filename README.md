@@ -190,6 +190,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3099-harshad-number](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3099-harshad-number/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3870-count-commas-in-range/) | Easy |
@@ -309,6 +310,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [2942-find-words-containing-character](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2942-find-words-containing-character/) | Easy |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3895-count-digit-appearances/) | Medium |
