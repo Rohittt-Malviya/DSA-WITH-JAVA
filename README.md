@@ -180,6 +180,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [0509-fibonacci-number](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -203,6 +204,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0342-power-of-four/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
