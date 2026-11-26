@@ -184,6 +184,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [1688-count-of-matches-in-tournament](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2469-convert-the-temperature/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -305,6 +306,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
@@ -457,6 +459,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2326-spiral-matrix-iv](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2460-apply-operations-to-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2460-apply-operations-to-an-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -497,6 +500,7 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0258-add-digits/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -524,4 +528,8 @@ This portfolio demonstrates selecting appropriate data structures, improving ove
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Rohittt-Malviya/DSA-WITH-JAVA/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 <!---LeetCode Topics End-->
